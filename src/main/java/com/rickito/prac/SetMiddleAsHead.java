@@ -1,3 +1,4 @@
+package com.rickito.prac;
 
 public class SetMiddleAsHead {
 
